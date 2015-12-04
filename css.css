@@ -8,12 +8,12 @@
 }
    
 .button {
-    height: 90px;
-    width: 100px;
+    height: 15%;
+    width: 10%;
     border-radius: 5px;
     position: absolute;
-    right: 630px;
-    top: 260px;
+    right: 45%;
+    top: 35%;
     margin: 30px;
     background-color: #ffffff;
     border: 1px solid #ff99c2;
@@ -37,6 +37,8 @@ h2{
 
 #Sonya {
     background-image: url(SonyaNoText.jpg);
+    background-size: 100%;
+    size: landscape;
 }
 #SonyaPage{
  
@@ -72,6 +74,8 @@ p{
 #Maya{
     
     background-image: url(MaiaNoText.jpg);
+    background-size: 100%;
+    size: landscape;
     
 }
 
@@ -86,6 +90,8 @@ p{
 #Author{
     
     background-image: url(authorNoText.jpg);
+    background-size: 100%;
+    size: landscape;
    
 
 }
@@ -106,5 +112,7 @@ p{
 
 #Book{
     background-image: url(FirstPageNoText.jpg);
+    background-size: 100%;
+    size: landscape;
 }
 
