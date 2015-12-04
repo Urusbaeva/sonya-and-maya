@@ -1,5 +1,11 @@
+
+
+
 #menu {
     background-image: url('background_image_1.jpg');
+    size: landscape;
+    height: 900px;
+    width: 1600px;
     /* бэкграунд главная */
 }
    
@@ -104,27 +110,3 @@ p{
     background-image: url(FirstPageNoText.jpg);
 }
 
-
-
-/* iPads (landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : landscape) {
-/* Styles */
-}
-
-
-
-/* iPhone 4 ----------- */
-@media
-only screen and (-webkit-min-device-pixel-ratio : 1.5),
-only screen and (min-device-pixel-ratio : 1.5) {
-/* Styles */
-}
-
-/* Smartphones (landscape) ----------- */
-@media only screen
-and (min-width : 321px) {
-/* Styles */
-}
