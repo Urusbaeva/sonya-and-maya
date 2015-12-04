@@ -7,14 +7,20 @@
 
 
 
-#PageNine p{
-    float: left;
-    clear: both;
+#PageNine {
+    position: absolute;
+    height: 80%;
     width: 100%;
+    margin: -100px 0 0 -200px;
+    top: 30%;
+    left: 15%;
+}  
+p{
     font-family: EpsilonCCT;
     color: #cc6699;
     text-shadow: 0.5px 0.5px #4d0000;
     font-size: 40px;
     text-align: center;
-    line-height: -25%;
+    line-height: 10%;
+
 }

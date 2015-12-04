@@ -120,8 +120,8 @@ h1{
     width: 73px;
     background-image: url(buttonNextPage.jpg);
     position: fixed;
-    bottom:250px;
-    left: 1150px;
+    bottom: 30%;
+    left: 85%;
     border-radius: 10px;
     border: solid 5px #ffc299;
     
@@ -132,8 +132,8 @@ h1{
     width: 73px;
     background-image: url(buttonNextPage.jpg);
     position: fixed;
-    bottom: 250px;
-    left:  150px;
+    bottom: 30%;
+    left: 10%;
     border-radius: 10px;
     border: solid 5px #ffc299;
 }
