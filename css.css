@@ -8,7 +8,7 @@
 }
    
 .button {
-    height: 15%;
+    height: 14%;
     width: 10%;
     border-radius: 5px;
     position: absolute;
@@ -26,7 +26,7 @@ h2{
     font-family: EpsilonCCT;
     text-shadow: 2px 2px #ff0000;
     color: #cc6699;
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
     /* текст жми сюда-главная */
 }
@@ -36,7 +36,7 @@ h2{
 
 
 #Sonya {
-    background-image: url(SonyaNoText.jpg);
+    background-image: url('SonyaNoText.jpg');
     background-size: 100%;
     size: landscape;
 }
@@ -63,7 +63,7 @@ p{
 #buttonMaya{
     height: 18%;
     width: 9%;
-    background-image: url(buttonOne.jpg);
+    background-image: url('buttonOne.jpg');
     background-size: 100%;
     position: fixed;
     bottom: 8%;
@@ -74,7 +74,7 @@ p{
 
 #Maya{
     
-    background-image: url(MaiaNoText.jpg);
+    background-image: url('MaiaNoText.jpg');
     background-size: 100%;
     size: landscape;
     
@@ -89,7 +89,7 @@ p{
 }
 
 #Author{
-    background-image: url(authorNoText.jpg);
+    background-image: url('authorNoText.jpg');
     background-size: 100%;
     size: landscape;
     
@@ -103,11 +103,11 @@ p{
 }
 
 
-}
-
 #Book{
-    background-image: url(FirstPageNoText.jpg);
+    background-image: url('FirstPageNoText.jpg');
     background-size: 100%;
     size: landscape;
+   
 }
+
 
