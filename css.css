@@ -8,22 +8,25 @@
 }
    
 .button {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
     height: 15%;
     width: 10%;
-    border-radius: 5px;
-    position: absolute;
-    right: 45%;
-    top: 35%;
-    margin: 30px;
+    border-radius: 10%;
+    
     background-color: #ffffff;
-    border: 1px solid #ff99c2;
+    border: 2px solid #ff99c2;
     opacity: 0.6;
     filter: alpha(opacity=60);
     text-align: center;
     vertical-align: middle;
     line-height: 15%;
     font-family: EpsilonCCT;
-    text-shadow: 1px 1px #ff0000;
+    text-shadow: 3% 3% #ff0000;
     color: #cc6699;
     font-size: 200%;
     
@@ -44,18 +47,19 @@
     position: absolute;
     right: 50%;
     top: 15%;
-    margin: 5px; 
+    width: 100%;
+    height: 80%;
+     
 }
 
 p{
     position: relative;
-    top: 15%;
-    left: 3%;
+    left: 40%;
     font-family: EpsilonCCT;
     color: #cc6699;
-    text-shadow: 0.5px 0.5px #4d0000;
-    font-size: 30px;
-    text-align: left;
+    text-shadow: 2% 2% #4d0000;
+    font-size: 180%;
+    text-align: center;
     line-height: 10%;
  
 }
@@ -67,7 +71,7 @@ p{
     position: fixed;
     bottom: 8%;
     left: 35%;
-    border-radius: 10px;
+    border-radius: 5%;
     border: solid 5px #ffc299;
 }
 
@@ -84,7 +88,8 @@ p{
     position: absolute;
     right: 50%;
     top: 15%;
-    margin: 5px; 
+    width: 100%;
+    height: 80%;
 }
 
 #Author{
@@ -94,11 +99,24 @@ p{
     
 }
 #AuthorPage{
-    
     position: absolute;
     right: 50%;
-    top: 15%;
-    margin: 5px; 
+    top: 10%;
+    margin: 5%;
+    height: 50%;
+    width: 100%;
+}
+
+#AuthorPage p{
+    position: relative;
+    left: 40%;
+    font-family: EpsilonCCT;
+    color: #cc6699;
+    text-shadow: 0.5px 0.5px #4d0000;
+    font-size: 50%;
+    text-align: center;
+    line-height: 10%;
+    
 }
 
 

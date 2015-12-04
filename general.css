@@ -23,6 +23,7 @@
     right: 10%;
     bottom:0;
     width: 80%;
+    height: 10%;
     border-radius: 5px;
     /* кнопка листа-главная */
    
@@ -30,69 +31,62 @@
 
 #chOne{
     color: #00e6ac;
-    font-size: 20px;
+    font-size: 150%;
     text-decoration: none;
     text-align: left;
-    left: 5px;
+    left: 5%;
+    text-shadow: 0.5px 0.5px #ff0000;
     
 }
 #chOne a{
     text-decoration: none;
-    color: #cc6699;
-    font-size: 20px;
-    text-shadow: 0.5px 0.5px #ff0000;
+    
 }
 
 #chTwo{
-    color: #cc6699;
-    font-size: 20px;
+    color: #00e6ac;
+    font-size: 150%;
     text-decoration: none;
     text-align: right;
-    right: 50px;
-    
+    right: 5%;
+    text-shadow: 0.5px 0.5px #ff0000;
 }
 #chTwo a {
     text-decoration: none;
-    color: #cc6699;
-    font-size: 20px;
-    text-shadow: 0.5px 0.5px #ff0000;
-    
+   
 }
 #chThree{
-    color: #cc6699;
-    font-size: 20px;
-    text-decoration: none;
+    color: #00e6ac;
+    font-size: 150%;
     text-align: right;
-    right: 10px;
+    right: 5%;
+    text-shadow: 0.5px 0.5px #ff0000;
 }
 
 #chThree a {
     text-decoration: none;
     color: #cc6699;
-    font-size: 20px;
-    text-shadow: 0.5px 0.5px #ff0000;
 }
 
 #chFour{
-    text-decoration: none;
-    color: #cc6699;
-    font-size: 20px;
+    
+    color: #00e6ac;
+    font-size: 150%;
     text-align: left;
-    left: 150px;
+    left: 10%;
+    text-shadow: 0.5px 0.5px #ff0000;
     
 }
 #chFour a {
     text-decoration: none;
-    color: #cc6699;
-    font-size: 20px;
-    text-shadow: 0.5px 0.5px #ff0000;
+
 }
 
 h1{
     font-family: EpsilonCCT;
     text-align: center;
     color: #cc6699;
-    font-size: 51px;
+    font-size: 300%;
     text-shadow: 2px 2px #ff0000;
     position:relative;
     top:-30px;
@@ -100,7 +94,7 @@ h1{
 }
 #title{
     
-    height: 90px;
+    height: 15%;
     width: 80%;
     border-radius: 5px;
     background-color: #ffffff;
@@ -116,8 +110,8 @@ h1{
 
 
 #pageNext{
-    height: 68px;
-    width: 73px;
+    height: 11%;
+    width: 5.5%;
     background-image: url(buttonNextPage.jpg);
     position: fixed;
     bottom: 30%;
@@ -128,8 +122,8 @@ h1{
 }
 
 #pageBack{
-    height: 68px;
-    width: 73px;
+    height: 11%;
+    width: 5.5%;
     background-image: url(buttonNextPage.jpg);
     position: fixed;
     bottom: 30%;
