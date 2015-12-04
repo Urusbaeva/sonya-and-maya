@@ -7,13 +7,13 @@
 
 
 #PageEight p{
-    position: relative;
-    top: 20%;
-    left: 40%;
+    float: left;
+    clear: both;
+    width: 100%;
     font-family: EpsilonCCT;
     color: #cc6699;
     text-shadow: 0.5px 0.5px #4d0000;
     font-size: 40px;
-    text-align: left;
+    text-align: center;
     line-height: 10%;
 }
