@@ -1,0 +1,140 @@
+@font-face {
+    font-family: EpsilonCCT;
+    src: url(EpsilonCCT.TTF);
+    /* прикрепление фонта - главная*/
+}
+
+#footer li{
+    position: relative;
+    font-family: EpsilonCCT;
+    display: inline;
+    float: left;
+    width: 25%;
+    color: #cc6699;
+    /* список-бар-внизу - главная */
+}
+
+#footer {
+    background-color: #ffffff;
+    border: 1px solid #ff99c2;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    position: fixed;
+    right: 175px;
+    bottom:0;
+    width:1000px;
+    border-radius: 5px;
+    /* кнопка листа-главная */
+   
+}
+
+#chOne{
+    color: #00e6ac;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: left;
+    left: 5px;
+    
+}
+#chOne a{
+    text-decoration: none;
+    color: #cc6699;
+    font-size: 20px;
+    text-shadow: 0.5px 0.5px #ff0000;
+}
+
+#chTwo{
+    color: #cc6699;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: right;
+    right: 50px;
+    
+}
+#chTwo a {
+    text-decoration: none;
+    color: #cc6699;
+    font-size: 20px;
+    text-shadow: 0.5px 0.5px #ff0000;
+    
+}
+#chThree{
+    color: #cc6699;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: right;
+    right: 10px;
+}
+
+#chThree a {
+    text-decoration: none;
+    color: #cc6699;
+    font-size: 20px;
+    text-shadow: 0.5px 0.5px #ff0000;
+}
+
+#chFour{
+    text-decoration: none;
+    color: #cc6699;
+    font-size: 20px;
+    text-align: left;
+    left: 150px;
+    
+}
+#chFour a {
+    text-decoration: none;
+    color: #cc6699;
+    font-size: 20px;
+    text-shadow: 0.5px 0.5px #ff0000;
+}
+
+h1{
+    font-family: EpsilonCCT;
+    text-align: center;
+    color: #cc6699;
+    font-size: 51px;
+    text-shadow: 2px 2px #ff0000;
+    position:relative;
+    top:-30px;
+    
+}
+#title{
+    
+    height: 90px;
+    width: 1000px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    border: 1px solid #ff99c2;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    position: absolute;
+    top: 0px;
+    right: 175px;
+    /* главная - название*/
+    
+}
+
+
+#pageNext{
+    height: 68px;
+    width: 73px;
+    background-image: url(buttonNextPage.jpg);
+    position: fixed;
+    bottom:250px;
+    left: 1150px;
+    border-radius: 10px;
+    border: solid 5px #ffc299;
+    
+}
+
+#pageBack{
+    height: 68px;
+    width: 73px;
+    background-image: url(buttonNextPage.jpg);
+    position: fixed;
+    bottom: 250px;
+    left:  150px;
+    border-radius: 10px;
+    border: solid 5px #ffc299;
+}
+

@@ -1,0 +1,130 @@
+#menu {
+    background-image: url('background_image_1.jpg');
+    /* бэкграунд главная */
+}
+   
+.button {
+    height: 90px;
+    width: 100px;
+    border-radius: 5px;
+    position: absolute;
+    right: 630px;
+    top: 260px;
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid #ff99c2;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    /* кнопка жми сюда-главная */
+    
+}
+h2{
+    font-family: EpsilonCCT;
+    text-shadow: 2px 2px #ff0000;
+    color: #cc6699;
+    font-size: 30px;
+    text-align: center;
+    /* текст жми сюда-главная */
+}
+
+
+    
+
+
+#Sonya {
+    background-image: url(SonyaNoText.jpg);
+}
+#SonyaPage{
+ 
+    position: absolute;
+    right: 670px;
+    top: 40px;
+    margin: 5px; 
+}
+
+p{
+    position: relative;
+    top: 40px;
+    left: 10px;
+    font-family: EpsilonCCT;
+    color: #cc6699;
+    text-shadow: 0.5px 0.5px #4d0000;
+    font-size: 30px;
+    text-align: left;
+    line-height: 10%;
+ 
+}
+#buttonMaya{
+    height: 112px;
+    width: 121px;
+    background-image: url(buttonOne.jpg);
+    position: fixed;
+    bottom:50px;
+    left: 330px;
+    border-radius: 10px;
+    border: solid 5px #ffc299;
+}
+
+#Maya{
+    
+    background-image: url(MaiaNoText.jpg);
+    
+}
+
+#MayaPage{
+    
+    position: absolute;
+    right: 670px;
+    top: 40px;
+    margin: 5px; 
+}
+
+#Author{
+    
+    background-image: url(authorNoText.jpg);
+   
+
+}
+   
+
+    
+.AuthorTextPage p{
+    position: relative;
+    top: 160px;
+    left: 200px;
+    font-family: EpsilonCCT;
+    color: #cc6699;
+    text-shadow: 0.5px 0.5px #4d0000;
+    font-size: 40px;
+    text-align: left;
+    line-height: 10%;
+}
+
+#Book{
+    background-image: url(FirstPageNoText.jpg);
+}
+
+
+
+/* iPads (landscape) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape) {
+/* Styles */
+}
+
+
+
+/* iPhone 4 ----------- */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen
+and (min-width : 321px) {
+/* Styles */
+}

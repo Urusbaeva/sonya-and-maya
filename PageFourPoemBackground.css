@@ -1,0 +1,18 @@
+#pageFourPoem{
+    background-image: url(PageFourPoemBackground.jpg);
+}
+
+
+
+
+#PageFour p{
+    position: relative;
+    top: 160px;
+    left: 400px;
+    font-family: EpsilonCCT;
+    color: #cc6699;
+    text-shadow: 0.5px 0.5px #4d0000;
+    font-size: 40px;
+    text-align: left;
+    line-height: 10%;
+}
