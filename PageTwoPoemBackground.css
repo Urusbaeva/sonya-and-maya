@@ -1,5 +1,7 @@
 #pageTwoPoem{
     background-image: url(PageTwoPoemBackground.jpg);
+    background-size: 100%;
+    size: landscape;
 }
 
 

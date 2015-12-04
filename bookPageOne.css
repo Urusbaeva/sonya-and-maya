@@ -1,6 +1,8 @@
 
 #pageOnePoem{
     background-image: url(PageOnePoemBackground.jpg);
+    background-size: 100%;
+    size: landscape;
 }
 
 #bookPageOne p{

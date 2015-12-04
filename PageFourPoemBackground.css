@@ -1,5 +1,7 @@
 #pageFourPoem{
     background-image: url(PageFourPoemBackground.jpg);
+    background-size: 100%;
+    size: landscape;
 }
 
 

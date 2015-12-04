@@ -1,5 +1,7 @@
 #pageNinePoem{
     background-image: url(PageNinePoemBackground.jpg);
+    background-size: 100%;
+    size: landscape;
 }
 
 

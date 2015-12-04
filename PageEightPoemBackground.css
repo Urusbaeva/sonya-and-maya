@@ -1,5 +1,7 @@
 #pageEightPoem{
     background-image: url(PageEightPoemBackground.jpg);
+    background-size: 100%;
+    size: landscape;
 }
 
 
