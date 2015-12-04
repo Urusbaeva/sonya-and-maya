@@ -43,15 +43,15 @@ h2{
 #SonyaPage{
  
     position: absolute;
-    right: 670px;
-    top: 40px;
+    right: 50%;
+    top: 15%;
     margin: 5px; 
 }
 
 p{
     position: relative;
-    top: 40px;
-    left: 10px;
+    top: 15%;
+    left: 3%;
     font-family: EpsilonCCT;
     color: #cc6699;
     text-shadow: 0.5px 0.5px #4d0000;
@@ -61,12 +61,13 @@ p{
  
 }
 #buttonMaya{
-    height: 112px;
-    width: 121px;
+    height: 18%;
+    width: 9%;
     background-image: url(buttonOne.jpg);
+    background-size: 100%;
     position: fixed;
-    bottom:50px;
-    left: 330px;
+    bottom: 8%;
+    left: 35%;
     border-radius: 10px;
     border: solid 5px #ffc299;
 }
@@ -82,32 +83,26 @@ p{
 #MayaPage{
     
     position: absolute;
-    right: 670px;
-    top: 40px;
+    right: 50%;
+    top: 15%;
     margin: 5px; 
 }
 
 #Author{
-    
     background-image: url(authorNoText.jpg);
     background-size: 100%;
     size: landscape;
-   
-
-}
-   
-
     
-.AuthorTextPage p{
-    position: relative;
-    top: 160px;
-    left: 200px;
-    font-family: EpsilonCCT;
-    color: #cc6699;
-    text-shadow: 0.5px 0.5px #4d0000;
-    font-size: 40px;
-    text-align: left;
-    line-height: 10%;
+}
+#AuthorPage{
+    
+    position: absolute;
+    right: 50%;
+    top: 15%;
+    margin: 5px; 
+}
+
+
 }
 
 #Book{
