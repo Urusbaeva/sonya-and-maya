@@ -8,7 +8,7 @@
 }
    
 .button {
-    height: 20%;
+    height: 15%;
     width: 10%;
     border-radius: 5px;
     position: absolute;
@@ -25,9 +25,9 @@
 h2{
     text-align: center;
     font-family: EpsilonCCT;
-    text-shadow: 2px 2px #ff0000;
+    text-shadow: 1px 1px #ff0000;
     color: #cc6699;
-    font-size: 40px;
+    font-size: 200%;
     
     padding: 1% 2% 1% 2%;
     /* текст жми сюда-главная */
