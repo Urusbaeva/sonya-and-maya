@@ -4,6 +4,8 @@
 #menu {
     background-image: url('background_image_1.jpg');
     background-size: 100%;
+    height: 900px;
+    width: 1600px;
     size: landscape;
     
     
@@ -43,6 +45,8 @@
 #Sonya {
     background-image: url('SonyaNoText.jpg');
     background-size: 100%;
+    height: 900px;
+    width: 1600px;
     size: landscape;
 }
 #SonyaPage{
@@ -82,6 +86,8 @@ p{
     
     background-image: url('MaiaNoText.jpg');
     background-size: 100%;
+    height: 900px;
+    width: 1600px;
     size: landscape;
     
 }
@@ -98,6 +104,8 @@ p{
 #Author{
     background-image: url('authorNoText.jpg');
     background-size: 100%;
+    height: 900px;
+    width: 1600px;
     size: landscape;
     
 }
@@ -126,6 +134,8 @@ p{
 #Book{
     background-image: url('FirstPageNoText.jpg');
     background-size: 100%;
+    height: 900px;
+    width: 1600px;
     size: landscape;
    
 }
