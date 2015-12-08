@@ -24,13 +24,15 @@
     width: 10%;
     border-radius: 10%;
     
+}
+.button h2{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 15%;
     background-color: #ffffff;
     border: 2px solid #ff99c2;
     opacity: 0.6;
     filter: alpha(opacity=60);
-    text-align: center;
-    vertical-align: middle;
-    line-height: 15%;
     font-family: EpsilonCCT;
     text-shadow: 3% 3% #ff0000;
     color: #cc6699;
