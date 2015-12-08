@@ -72,8 +72,8 @@ p{
  
 }
 #buttonMaya{
-    height: 10%;
-    width: 5%;
+    height: 15%;
+    width: 10%;
     background-image: url('buttonOne.jpg');
     background-size:100% auto;
     background-repeat: no-repeat;
