@@ -1,6 +1,7 @@
 #pageThreePoem{
     background-image: url(PageThreePoemBackground.jpg);
-    background-size: 100%;
+    background-size:100% auto;
+    background-repeat: no-repeat;
     height: 900px;
     width: 1600px;
     size: landscape;

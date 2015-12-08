@@ -1,6 +1,7 @@
 #pageNinePoem{
     background-image: url(PageNinePoemBackground.jpg);
-    background-size: 100%;
+    background-size:100% auto;
+    background-repeat: no-repeat;
     height: 900px;
     width: 1600px;
     size: landscape;
