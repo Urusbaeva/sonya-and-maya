@@ -6,7 +6,7 @@
 
 #footer li{
     position: relative;
-    font-family: EpsilonCCT;
+    font-family: EpsilonCCT, 'Lobster', cursive;
     display: inline;
     float: left;
     width: 25%;
@@ -83,7 +83,7 @@
 }
 
 h1{
-    font-family: EpsilonCCT;
+    font-family: EpsilonCCT, 'Lobster', cursive;
     text-align: center;
     color: #cc6699;
     font-size: 300%;

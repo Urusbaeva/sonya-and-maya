@@ -32,7 +32,7 @@
     border: 2px solid #ff99c2;
     opacity: 0.6;
     filter: alpha(opacity=60);
-    font-family: EpsilonCCT;
+    font-family: EpsilonCCT, 'Lobster', cursive;
     text-shadow: 3% 3% #ff0000;
     color: #cc6699;
     font-size: 200%;
@@ -63,7 +63,7 @@
 p{
     position: relative;
     left: 40%;
-    font-family: EpsilonCCT;
+    font-family: EpsilonCCT, 'Lobster', cursive;
     color: #cc6699;
     text-shadow: 2% 2% #4d0000;
     font-size: 180%;
@@ -125,7 +125,7 @@ p{
 #AuthorPage p{
     position: relative;
     left: 40%;
-    font-family: EpsilonCCT;
+    font-family: EpsilonCCT, 'Lobster', cursive;
     color: #cc6699;
     text-shadow: 0.5px 0.5px #4d0000;
     font-size: 50%;
