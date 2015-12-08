@@ -110,7 +110,7 @@ h1{
 
 
 #pageNext{
-    height: 18%;
+    height: 19%;
     width: 10%;
     background-image: url(buttonNextPage.jpg);
     background-repeat: no-repeat;
@@ -124,7 +124,7 @@ h1{
 }
 
 #pageBack{
-    height: 18%;
+    height: 19%;
     width: 10%;
     background-image: url(buttonNextPage.jpg);
     background-size:100% auto;
