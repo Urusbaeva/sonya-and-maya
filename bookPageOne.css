@@ -1,7 +1,9 @@
 
 #pageOnePoem{
     background-image: url(PageOnePoemBackground.jpg);
-    background-size: 100%;
+    background-size:100% auto;
+    
+    
     height: 900px;
     width: 1600px;
     size: landscape;
@@ -13,7 +15,7 @@
     width: 100%;
     margin: -100px 0 0 -200px;
     top: 30%;
-    left: 15%;
+    left: 12%;
 }  
 
 p{
