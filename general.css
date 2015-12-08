@@ -114,6 +114,7 @@ h1{
     width: 10%;
     background-image: url(buttonNextPage.jpg);
     background-repeat: no-repeat;
+    background-size:100% auto;
     position: fixed;
     bottom: 30%;
     left: 85%;
@@ -126,7 +127,7 @@ h1{
     height: 20%;
     width: 10%;
     background-image: url(buttonNextPage.jpg);
-    
+    background-size:100% auto;
     background-repeat: no-repeat;
     position: fixed;
     bottom: 30%;
