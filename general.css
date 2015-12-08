@@ -113,7 +113,8 @@ h1{
     
     background-image: url(buttonNextPage.jpg);
     background-size: 100%
-    
+    height: 100%;
+    width: 100%;
     position: fixed;
     bottom: 30%;
     left: 85%;
@@ -125,7 +126,8 @@ h1{
 #pageBack{
     background-image: url(buttonNextPage.jpg);
     background-size: 100%
-   
+    height: 100%;
+    width: 100%;
     position: fixed;
     bottom: 30%;
     left: 10%;
